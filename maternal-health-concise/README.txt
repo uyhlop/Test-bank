@@ -49,3 +49,9 @@ linked exam; original course slides were not independently supplied.
 The Sources screen lists the 25 course objectives and item coverage.
 Independent educational practice, not an official ATI assessment.
 Current clinical protocols and individualized care take priority.
+
+DISTRACTOR REVISION
+78 items revised to address implausible distractors, priority ambiguity,
+clinical specificity, and select-all items with no incorrect alternatives.
+Affected rationales and keys were revised together. This version starts
+separate progress because some answer keys changed.
